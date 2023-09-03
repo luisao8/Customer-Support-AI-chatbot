@@ -10,12 +10,14 @@ This project provides a customer support chatbot designed to be integrated into 
 
 ## Usage Examples:
 ### Upload page:
-![Alt text for the image](https://user-images.githubusercontent.com/74673031/265263875-879144a7-b76e-4213-8362-e0fdaae89acf.png)
+![Upload page](https://user-images.githubusercontent.com/74673031/265263875-879144a7-b76e-4213-8362-e0fdaae89acf.png)
 
 ### Chatbot:
-![Alt text for the image](https://user-images.githubusercontent.com/74673031/265263854-88e7c850-676e-4a26-a372-af029e5239c4.png)
+![Chatbot page](https://user-images.githubusercontent.com/74673031/265263854-88e7c850-676e-4a26-a372-af029e5239c4.png)
 
-### Video Example:.
+### Video Example:
+
+[![Video example](https://user-images.githubusercontent.com/74673031/265264827-c6d02320-0960-4ad5-a947-edd9ef74f558.png)](https://youtu.be/gaQz58G14tI)
 
 
 
