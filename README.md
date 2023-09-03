@@ -9,8 +9,14 @@ This project provides a customer support chatbot designed to be integrated into 
 - **Dynamic Learning**: Continuously learns from new content, enhancing its knowledge base and response accuracy.
 
 ## Usage Examples:
-###Front Page:
+### Upload page:
 ![Alt text for the image](https://user-images.githubusercontent.com/74673031/265263875-879144a7-b76e-4213-8362-e0fdaae89acf.png)
+
+### Chatbot:
+![Alt text for the image](https://user-images.githubusercontent.com/74673031/265263854-88e7c850-676e-4a26-a372-af029e5239c4.png)
+
+### Video Example:
+
 
 
 ## Technologies Used
