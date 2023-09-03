@@ -17,7 +17,7 @@ This project provides a customer support chatbot designed to be integrated into 
 
 ### Video Example:
 
-[![Video example](https://user-images.githubusercontent.com/74673031/265264827-c6d02320-0960-4ad5-a947-edd9ef74f558.png)](https://youtu.be/gaQz58G14tI)
+[![Video example](https://user-images.githubusercontent.com/74673031/265264827-c6d02320-0960-4ad5-a947-edd9ef74f558.png)](https://youtu.be/gaQz58G14tI) 
 
 
 
