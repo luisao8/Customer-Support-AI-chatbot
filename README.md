@@ -20,8 +20,6 @@ This project provides a customer support chatbot designed to be integrated into 
 [![Video example](https://user-images.githubusercontent.com/74673031/265265040-d90290e2-2adb-464d-bc52-ab1aeba14f54.png)](https://youtu.be/gaQz58G14tI) 
 
 
-https://user-images.githubusercontent.com/74673031/265265040-d90290e2-2adb-464d-bc52-ab1aeba14f54.png
-
 
 ## Technologies Used
 - **Python**: Backend development.
