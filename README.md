@@ -8,6 +8,11 @@ This project provides a customer support chatbot designed to be integrated into 
 - **URL and PDF Reading**: Ability to read and understand content from the company's webpages and informative PDFs.
 - **Dynamic Learning**: Continuously learns from new content, enhancing its knowledge base and response accuracy.
 
+## Usage Examples:
+###Front Page:
+![Alt text for the image](https://user-images.githubusercontent.com/74673031/265263875-879144a7-b76e-4213-8362-e0fdaae89acf.png)
+
+
 ## Technologies Used
 - **Python**: Backend development.
 - **OpenAI ChatGPT**: For conversational capabilities.
